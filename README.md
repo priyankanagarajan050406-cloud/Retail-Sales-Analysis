@@ -1,4 +1,4 @@
-<img width="974" height="552" alt="Sales Overview" src="https://github.com/user-attachments/assets/543e1f0a-dc0a-404a-b50d-d472f6604555" /># 🛍️ Retail Sales Analysis 
+# 🛍️ Retail Sales Analysis 
 ## 📌 Project Overview
 This project focuses on analyzing retail sales data to understand sales performance, customer purchasing behavior, product performance, and inventory management.
 
