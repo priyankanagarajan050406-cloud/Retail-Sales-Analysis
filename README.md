@@ -17,7 +17,7 @@ The project follows an end-to-end data analytics workflow using Excel, MySQL, Py
 - Perform customer segmentation using RFM analysis.
 - Analyze store performance and inventory levels.
 - Build interactive dashboards for business reporting.
-- 
+  
 ## 🛠️ Tools & Technologies
 
 
