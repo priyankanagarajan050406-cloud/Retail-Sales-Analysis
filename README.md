@@ -1,4 +1,3 @@
-# Retail-Sales-Analysis
 🛍️ Retail Sales Analysis
 📌 Project Overview
 This project focuses on analyzing retail sales data to understand sales performance, customer purchasing behavior, product performance, and inventory management.
